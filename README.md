@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working to create an algorithmic auto trading strategy using python. With the Remote Syslog project as backend logging and event manager. <br>I'm leaning about deep leaning and machine learning to improve the accuracy of this project. Do you like coding and the Remote Syslog project? <br>Feel free to send us an e-mail @ info@remotesyslog.com.<br>
+I'm currently working to create an algorithmic auto trading strategy using python. With the Remote Syslog project as backend logging and event manager. I'm leaning about deep leaning and machine learning to improve the accuracy of this project. Do you like coding and the Remote Syslog project? Feel free to send us an e-mail @ info@remotesyslog.com.<br>
 
 
 ## 🌐 Socials:
